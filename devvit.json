@@ -1,0 +1,25 @@
+{
+  "name": "Ninja Obby",
+  "version": "1.0.0",
+  "description": "A fast-paced cyberpunk-styled endless runner game. Navigate a ninja running on a rope, flip between top and bottom sides to dodge obstacles, and unleash powerful skills!",
+  "author": "Your Name",
+  "license": "MIT",
+  "capabilities": [
+    "REALTIME",
+    "SCHEDULER"
+  ],
+  "permissions": [
+    "read:subreddits",
+    "read:posts",
+    "read:comments"
+  ],
+  "webView": {
+    "entrypoint": "index.html",
+    "width": "100%",
+    "height": "100%"
+  },
+  "preview": {
+    "width": 800,
+    "height": 600
+  }
+}
